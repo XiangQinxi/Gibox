@@ -109,4 +109,4 @@ ___
 >
 > 注意：在在中途会提示是否安装glade,请输入`Y`即可继续安装。
 
-####5.安装好后进入``MSYS2``文件夹的``mingw64/bin``文件夹中找到``python.exe``（文件地址：`.\Msys2\mingw64\bin\python.exe`），这就是绑定后的解释器。还可以在这个文件夹里找到Glade设计器的执行程序（文件地址：`.\Msys2\mingw64\bin\glade.exe`）
+#### 5.安装好后进入``MSYS2``文件夹的``mingw64/bin``文件夹中找到``python.exe``（文件地址：`.\Msys2\mingw64\bin\python.exe`），这就是绑定后的解释器。还可以在这个文件夹里找到Glade设计器的执行程序（文件地址：`.\Msys2\mingw64\bin\glade.exe`）
