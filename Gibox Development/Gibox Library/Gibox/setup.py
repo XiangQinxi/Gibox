@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Gibox',  # 包名
-    version='1.7',  # 版本
+    version='1.8',  # 版本
     description="将所有Widget都加入到Gib.Gibox盒子上",  # 包简介
     long_description=open('README.md', "r", encoding='UTF-8').read(),  # 读取文件中介绍包的详细内容
     include_package_data=True,  # 是否允许上传资源文件

@@ -1,5 +1,6 @@
 from Gib.Gibox import *
 from Gib.Ginet import *
+from Gib.Giexe import Glade
 
 
 class GiFile(GWindow):
