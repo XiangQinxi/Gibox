@@ -59,8 +59,8 @@ if __name__ == "__main__":
 
 #### Gib:
 ```python
-from Gib.GContainer import *
-from Gib.GControl import *
+from Gib.Gibox import *
+from Gib.Gibox import *
 
 
 class App(GWindow):

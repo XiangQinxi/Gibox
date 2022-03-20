@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Gibox',  # 包名
-    version='1.8',  # 版本
+    version='1.8.1',  # 版本
     description="将所有Widget都加入到Gib.Gibox盒子上",  # 包简介
     long_description=open('README.md', "r", encoding='UTF-8').read(),  # 读取文件中介绍包的详细内容
     include_package_data=True,  # 是否允许上传资源文件
@@ -25,7 +25,7 @@ setup(
         'Programming Language :: Python :: 3',  # 设置编写时的python版本
     ],
     python_requires='>=3.6',  # 设置python版本要求
-    install_requires=['pygobject'],  # 安装所需要的库
+    install_requires=['pygobject', 'playsound'],  # 安装所需要的库
     entry_points={
         'console_scripts': [
             ''],
